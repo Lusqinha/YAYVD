@@ -1,6 +1,6 @@
 # YAYVD (Yet Another Youtube Video Downloader)
 
-[![Gem Version](https://badge.fury.io/rb/yayvd.svg)](https://badge.fury.io/rb/yayvd)
+[![Gem Version](http://img.shields.io/gem/v/yayvd.svg)](http://rubygems.org/gems/yayvd)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **YAYVD** is a developer-friendly Ruby wrapper for [yt-dlp](https://github.com/yt-dlp/yt-dlp). It simplifies the process of downloading videos and audio from YouTube, providing a clean Ruby API while leveraging the power and stability of `yt-dlp`.
